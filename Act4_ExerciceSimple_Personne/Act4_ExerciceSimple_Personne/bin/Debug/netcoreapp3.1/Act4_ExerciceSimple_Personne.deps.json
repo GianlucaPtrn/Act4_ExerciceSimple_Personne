@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Act4_ExerciceSimple_Personne/1.0.0": {
+        "runtime": {
+          "Act4_ExerciceSimple_Personne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act4_ExerciceSimple_Personne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
