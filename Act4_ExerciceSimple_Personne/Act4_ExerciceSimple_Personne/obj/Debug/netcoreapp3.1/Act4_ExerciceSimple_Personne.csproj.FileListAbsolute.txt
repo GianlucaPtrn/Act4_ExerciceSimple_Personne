@@ -12,3 +12,17 @@ C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act
 C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.dll
 C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.pdb
 C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.genruntimeconfig.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.exe
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.deps.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.runtimeconfig.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.runtimeconfig.dev.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.csproj.AssemblyReference.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.AssemblyInfoInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.AssemblyInfo.cs
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.csproj.CoreCompileInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\Act4_ExerciceSimple_Personne\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_Personne.genruntimeconfig.cache

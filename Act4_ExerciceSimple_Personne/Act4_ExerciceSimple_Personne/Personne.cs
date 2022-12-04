@@ -34,28 +34,25 @@ namespace Act4_ExerciceSimple_Personne
             _euro = euro;
         }
 
-        public double GiveMoney(Personne[] personnes ){
-            Console.WriteLine(personnes[0].Nom + " combien Voulez vous donner à " + personnes[1].Nom);
-            Console.WriteLine("Encodez une somme d'argent !!");
-            double money = double.Parse(Console.ReadLine());
-            double giveMoney = _euro - money;
+        public double GiveMoney(Personne[] personnes, double money){
+            double giveMoney = 0;
+            if (_euro < money){
+                giveMoney = _euro - money;
+            }
+            else{
+                Console.WriteLine("Probleme !! SOLDE INSUFFISANT");
+            }
             return giveMoney;
         }
 
-        public double ReceiveMoney(double giveMoney)
-        {
+        public void ReceiveMoney(double giveMoney){
             double receiveMoney = _euro + giveMoney;
-            Console.WriteLine("Ajout effectué !!");
-            return receiveMoney;
         }
 
-        public string sentenceMoney(Personne[] personnes, double giveMoney, double receiveMoney)
+
+        public string sentenceMoney(Personne personnes)
         {
-            string sentence = "";
-            for(int i = 0; i < 2; i++)
-            {
-                sentence = personnes[i].Nom + " a " + _euro + " euro dans son porte-feuille";
-            }
+            string sentence = _nom + " a " + _euro + " euro dans son porte-feuille";
             return sentence;
         }
     }
